@@ -23,7 +23,7 @@ L["Which deactivates the functions from the Capitals - Minimap tab and is now co
 L["This will delete all Capitals - Minimap settings and replace them with those from Capitals tab"] = "屏蔽所有系统设置，“主城-小地图”取代系统“主城”选项卡中的设置。"
 --1 Capitals
 L["Leather Armor"] = "皮甲"
-L["Heavy Armor"] = "重甲"
+L["Heavy Armor"] = "锁甲"
 L["Plate Armor"] = "板甲"
 L["Cloth Armor"] = "布甲"
 L["Quartermaster"] = "军需官"
